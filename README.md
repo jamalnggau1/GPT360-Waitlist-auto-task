@@ -1,6 +1,7 @@
-# 🧾 ArenaVS Multi-Akun Task Completer
+# 🧾 ArenaVS Multi-Akun Task Completer 
+https://launchpad.arenavs.com/?start=b9213742-f599-49fa-a9ae-8dc06ff79c14
 
-Script Python ini digunakan untuk **menyelesaikan semua task ArenaVS** secara otomatis menggunakan **banyak akun JWT** dari file `wallets.txt`.
+Script Python ini digunakan untuk **menyelesaikan semua task ArenaVS** secara otomatis menggunakan **banyak akun** dari file `wallets.txt`.
 
 ---
 
